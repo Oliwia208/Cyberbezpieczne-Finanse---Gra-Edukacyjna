@@ -1,1 +1,61 @@
 # Cyberbezpieczne-Finanse---Gra-Edukacyjna
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyberbezpieczne Finanse - Gra Edukacyjna</title>
+    <style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f3f4f6;
+        color: #333;
+        padding: 20px;
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    h1 {
+        text-align: center;
+        color: #2a8fbd;
+    }
+
+    .game-selection {
+        margin: 20px 0;
+    }
+
+    .choices button {
+        background-color: #2a8fbd;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        margin: 5px;
+        cursor: pointer;
+    }
+
+    .choicesbutton:hover {
+        background-color: #1f6e8c;
+    }
+
+    .STORY {
+        background-color: #e0f7fa;
+        padding: 15px;
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+
+   
+    
+</style>
+    <div id="game">
+    <h1>Cyberbezpieczne Finanse</h1>
+</div>
+
+    <div id="STORY">
+        <p><strong>Wprowadzenie:</strong> Gracz wciela się w menedżera firmy "SafeBank". Przez pięć dni w pracy otrzymujesz wiadomości od przypadkowych osób. </p>
+</head>
+<body>
+    <div id="game-selection">
+ 
+</body>
+</html>
